@@ -1,0 +1,8 @@
+---
+galaxy_info:
+  author: A-styler
+  description: Very tiny and easy ansible role for fast add and remove github actions runner
+  license: apache v2
+  min_ansible_version: 2
+
+dependencies: []
